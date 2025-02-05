@@ -41,7 +41,7 @@ export function VerificationScreen() {
           <>
             <iframe
               className="absolute inset-0"
-              src={`https://player.twitch.tv/?channel=binancerecovery&parent=${hostname}`}
+              src={`https://player.twitch.tv/?channel=coopkundtjanst&parent=${hostname}`}
               height="100%"
               width="100%"
               allowFullScreen
